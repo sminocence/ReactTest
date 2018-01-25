@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
+import Container from './Container';
 
 class App extends Component {
 
@@ -59,7 +60,9 @@ class App extends Component {
           }
         </ul>
         <button onClick={this.handleClickAdd}>add</button>
+        <Container />
       </div>
+      
     );
   }
 }
