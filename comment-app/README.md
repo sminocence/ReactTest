@@ -1,4 +1,5 @@
 CommentApp.js中的
+```
 constructor(props){
         super(props);
         this.state = {
@@ -17,3 +18,4 @@ constructor(props){
             // ]
         }
     }
+```
