@@ -1,10 +1,10 @@
-CommentApp.jsÖĞµÄ
+CommentApp.jsä¸­çš„
 constructor(props){
         super(props);
         this.state = {
             contents:props.data
-	    ½â¾ö·½·¨£º
-            // ÕâÀïµÄÊı¾İÊÇ´Óä¯ÀÀÆ÷ÖĞµÄ»º´æÖĞµÃµ½µÄ£¬ËùÒÔÃ¿´ÎÒªÏÈÔËĞĞÏÂÃæ×¢ÊÍµÄ´úÂë£¬ÈÃä¯ÀÀÆ÷ÖĞ´æ´¢ÓĞ¶«Î÷£¬²Å²»»á³öÏÖCannot read property 'map' of null
+	    è§£å†³æ–¹æ³•ï¼š
+            // è¿™é‡Œçš„æ•°æ®æ˜¯ä»æµè§ˆå™¨ä¸­çš„ç¼“å­˜ä¸­å¾—åˆ°çš„ï¼Œæ‰€ä»¥æ¯æ¬¡è¦å…ˆè¿è¡Œä¸‹é¢æ³¨é‡Šçš„ä»£ç ï¼Œè®©æµè§ˆå™¨ä¸­å­˜å‚¨æœ‰ä¸œè¥¿ï¼Œæ‰ä¸ä¼šå‡ºç°Cannot read property 'map' of null
             // contents: [
             //     {
             //         "username":"xiao",
