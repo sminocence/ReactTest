@@ -1,5 +1,7 @@
 ### 遇到的问题
+Cannot read property 'map' of null
 
+### 解决办法
 CommentApp.js中的
 ```
 constructor(props){
